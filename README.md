@@ -1,6 +1,6 @@
 Olá ! Sou Caio Rodrigues
 
-- 🔭 Ainda não trabalho na área...
+- 🔭 T.I = Tudo incluso
 - 🌱 Estudando Javascript, Node.Js, React...
 
 <div align="center">
