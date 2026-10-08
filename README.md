@@ -1,131 +1,117 @@
-👨‍💻 Caio Rodrigues
-
-Developer • Automation • Data • Cybersecurity
-
-Transformando problemas reais em código, dados e automação.
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Caio%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Automation%20%E2%80%A2%20Data%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16"/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Transformando+problemas+reais+em+c%C3%B3digo;Automatizando+o+que+%C3%A9+repetitivo;Transformando+dados+em+decis%C3%B5es;Aprendendo+ciberseguran%C3%A7a+na+pr%C3%A1tica" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/caioroodrigues"><img src="https://img.shields.io/github/followers/caioroodrigues?label=Followers&style=for-the-badge&logo=github&color=1a1b27"/></a>
+<img src="https://komarev.com/ghpvc/?username=caioroodrigues&style=for-the-badge&color=7aa2f7&label=Profile+Views"/>
+
 </div>
 
-⸻
+---
 
-🧠 Sobre mim
+## 🧠 Sobre mim
 
-Sou desenvolvedor focado em automação, dados e desenvolvimento de soluções, com interesse crescente em cibersegurança.
+Sou desenvolvedor focado em **automação, dados e desenvolvimento de soluções**, com interesse crescente em **cibersegurança**.
 
-Gosto de pegar problemas reais, entender onde está o gargalo e transformar processos manuais em soluções mais rápidas, inteligentes e eficientes.
+Gosto de pegar um problema real, encontrar onde está o gargalo e transformar processos manuais em soluções mais rápidas, inteligentes e confiáveis.
 
-Atualmente estou aprofundando meus conhecimentos em programação e cibersegurança, desenvolvendo projetos e experimentando novas tecnologias.
+- 🔭 Construindo automações e projetos orientados a dados
+- 🌱 Aprofundando em **backend** e **cibersegurança** (labs e CTFs)
+- 🤖 Explorando aplicações práticas de **IA** no dia a dia de desenvolvimento
+- 💬 Pode me chamar para falar sobre **Python, SQL, automação e dados**
 
-⸻
+---
 
-🚀 Tech Stack
-
-💻 Languages
-
-⚙️ Backend & Web
-
-📊 Data & Analytics
-
-🛠️ Tools & Infrastructure
-
-⸻
-
-🔥 Currently Building
-
-┌──────────────────────────────────────────────┐
-│              CURRENT PROJECTS                 │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ⚙️  Process Automation                     │
-│      Eliminating repetitive manual work.     │
-│                                              │
-│  📊 Data & Analytics                         │
-│      Turning raw data into insights.         │
-│                                              │
-│  🤖 AI + Automation                          │
-│      Exploring practical AI applications.    │
-│                                              │
-│  🔐 Cybersecurity                             │
-│      Learning through labs & projects.       │
-│                                              │
-└──────────────────────────────────────────────┘
-
-⸻
-
-📊 GitHub Analytics
+## 🚀 Tech Stack
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioroodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioroodrigues&layout=compact&langs_count=8&theme=tokyonight"/>
+
+**Linguagens & Backend**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,flask,nodejs&theme=dark" />
+
+**Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+**Ferramentas & Infra**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,aws&theme=dark" />
+
 </div>
 
-⸻
+---
 
-🔥 Contribution Streak
+## 🔥 No que estou trabalhando
+
+| Área | Foco |
+|---|---|
+| ⚙️ **Automação** | Scripts, integrações e bots que eliminam trabalho manual repetitivo |
+| 📊 **Dados** | SQL, tratamento de grandes volumes e análises que viram decisão |
+| 🌐 **Desenvolvimento** | APIs e aplicações web com tecnologias modernas de backend |
+| 🔐 **Cybersecurity** | Redes, sistemas e boas práticas, aprendendo com labs e projetos |
+| 🤖 **IA + Automação** | Uso prático de IA em programação, análise e produtividade |
+
+---
+
+## 📌 Projetos em destaque
 
 <div align="center">
+
+<a href="https://github.com/caioroodrigues/NOME-DO-REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioroodrigues&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/caioroodrigues/NOME-DO-REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioroodrigues&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
-⸻
+---
 
-🧩 O que estou explorando
+## 📊 GitHub Stats
 
-⚙️ Automação
+<div align="center">
 
-Criação de scripts, integrações e soluções para transformar tarefas repetitivas em processos automatizados.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=caioroodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioroodrigues&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-📊 Dados
+<img src="https://streak-stats.demolab.com?user=caioroodrigues&theme=tokyonight&hide_border=true" />
 
-Exploração de dados, SQL, análise, tratamento de grandes volumes de informação e construção de soluções orientadas a dados.
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=caioroodrigues&theme=tokyo-night&hide_border=true" />
 
-🌐 Desenvolvimento
+</div>
 
-Construção de APIs, aplicações web e ferramentas utilizando tecnologias modernas de backend e frontend.
+---
 
-🔐 Cybersecurity
+## 💭 Como eu penso
 
-Estudos e laboratórios envolvendo sistemas, redes, segurança e boas práticas de proteção.
-
-🤖 Inteligência Artificial
-
-Explorando como IA pode ser aplicada de forma prática em programação, automação, análise e produtividade.
-
-⸻
-
-📚 Atualmente estudando
-
-Python              ████████████████░░░░
-SQL                 █████████████████░░░
-Data Analytics      ███████████████░░░░░
-Backend             █████████████░░░░░░░
-Cybersecurity       ██████████░░░░░░░░░░
-Cloud               ████████░░░░░░░░░░░░
-
-⸻
-
-💭 How I think
-
+```python
 while True:
     problem = find_problem()
     solution = build(problem)
     automate(solution)
     learn()
     improve()
+```
 
-⸻
-
-🌎 Let’s connect
-
-<div align="center">
-</div>
-
-⸻
+---
 
 <div align="center">
 
-⚡ Build. Automate. Learn. Repeat.
+### ⚡ Build. Automate. Learn. Repeat.
 
-Always learning. Always building.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer"/>
 
 </div>
