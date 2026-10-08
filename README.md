@@ -7,10 +7,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/caio-rodrigues45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tglcaiohenrique@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/caioroodrigues"><img src="https://img.shields.io/github/followers/caioroodrigues?label=Followers&style=for-the-badge&logo=github&color=1a1b27"/></a>
-<img src="https://komarev.com/ghpvc/?username=caioroodrigues&style=for-the-badge&color=7aa2f7&label=Profile+Views"/>
 
 </div>
 
@@ -31,13 +30,31 @@ Gosto de pegar um problema real, encontrar onde está o gargalo e transformar pr
 
 ## 🚀 Tech Stack
 
-| Área | Tecnologias |
-|---|---|
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Dados** | ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **Automação & IA** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) |
-| **Infra & Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+<div align="center">
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,bash&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,graphql&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,nginx,postman&theme=dark" />
+
+**Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" /> <img src="./icons/duckdb.svg" height="48" /> <img src="./icons/pandas.svg" height="48" /> <img src="./icons/jupyter.svg" height="48" /> <img src="./icons/powerbi.svg" height="48" />
+
+**Automação & IA**
+
+<img src="./icons/n8n.svg" height="48" /> <img src="./icons/claude.svg" height="48" />
+
+**Infra & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode&theme=dark" />
+
+</div>
 
 ---
 
@@ -50,21 +67,6 @@ Gosto de pegar um problema real, encontrar onde está o gargalo e transformar pr
 | 🌐 **Desenvolvimento** | APIs e aplicações web com tecnologias modernas de backend |
 | 🔐 **Cybersecurity** | Redes, sistemas e boas práticas, aprendendo com labs e projetos |
 | 🤖 **IA + Automação** | Uso prático de IA em programação, análise e produtividade |
-
----
-
-## 📌 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/caioroodrigues/NOME-DO-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioroodrigues&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/caioroodrigues/NOME-DO-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioroodrigues&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
