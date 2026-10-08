@@ -32,27 +32,33 @@ Gosto de pegar um problema real, encontrar onde está o gargalo e transformar pr
 
 <div align="center">
 
-**Linguagens**
+**💻 Linguagens**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,bash&theme=dark" />
+<img src="./assets/linguagens.svg" alt="Linguagens" />
 
-**Backend**
+**⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,graphql&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,nginx,postman&theme=dark" />
+<img src="./assets/backend.svg" alt="Backend" />
 
-**Dados**
+**📊 Dados**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" /> <img src="./icons/duckdb.svg" height="48" /> <img src="./icons/pandas.svg" height="48" /> <img src="./icons/jupyter.svg" height="48" /> <img src="./icons/powerbi.svg" height="48" />
+<img src="./assets/dados.svg" alt="Dados" />
 
-**Automação & IA**
+**🤖 Inteligência Artificial**
 
-<img src="./icons/n8n.svg" height="48" /> <img src="./icons/claude.svg" height="48" />
+<img src="./assets/ia.svg" alt="Inteligência Artificial" />
 
-**Infra & Ferramentas**
+**🔁 Automação**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode&theme=dark" />
+<img src="./assets/automacao.svg" alt="Automação" />
+
+**🔐 Cibersegurança**
+
+<img src="./assets/ciberseguranca.svg" alt="Cibersegurança" />
+
+**☁️ Infra & Ferramentas**
+
+<img src="./assets/infra.svg" alt="Infra & Ferramentas" />
 
 </div>
 
