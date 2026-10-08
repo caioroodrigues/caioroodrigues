@@ -1,32 +1,41 @@
 👨‍💻 Caio Rodrigues
 
 <p align="center">
-  <img width="100%" src="./assets/banner.svg" alt="Caio Rodrigues — Developer, Automation, Data e Cybersecurity" />
+  <img width="100%" src="./assets/banner.svg" alt="Caio Rodrigues — Automação, Dados e Desenvolvimento" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/caio-rodrigues45">LinkedIn</a> ·
-  <a href="mailto:tglcaiohenrique@gmail.com">E-mail</a> ·
-  <a href="https://github.com/caioroodrigues">GitHub</a>
+  <a href="https://www.linkedin.com/in/caio-rodrigues45">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tglcaiohenrique@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/caioroodrigues">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+solutions+with+code.;Automating+what+shouldn't+be+manual.;Turning+data+into+decisions.;Always+learning%2C+always+building." alt="Developer typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Automa%C3%A7%C3%A3o+de+Processos;Desenvolvimento+de+Solu%C3%A7%C3%B5es+com+Python;Dados%2C+SQL+e+Business+Intelligence;Integra%C3%A7%C3%A3o+de+IA+em+fluxos+de+trabalho" alt="Animação de apresentação" />
 </p>
 
 ⸻
 
-🧠 Sobre mim
+🧑‍💻 Sobre mim
 
-Sou desenvolvedor focado em automação, dados e desenvolvimento de soluções, com interesse crescente em cibersegurança.
+Sou um profissional interessado em tecnologia, automação e desenvolvimento de soluções que resolvem problemas reais.
 
-Gosto de entender problemas reais, identificar gargalos e transformar processos manuais em soluções mais rápidas, inteligentes e confiáveis.
+Gosto de entender processos, identificar tarefas repetitivas e transformar atividades manuais em fluxos mais eficientes, utilizando programação, dados e inteligência artificial.
 
-* ⚙️ Construindo automações e projetos orientados a dados.
-* 🌱 Aprofundando conhecimentos em backend e cibersegurança.
-* 🤖 Explorando aplicações práticas de inteligência artificial.
-* 📊 Trabalhando com SQL, análise e tratamento de dados.
-* 💬 Vamos conversar sobre Python, automação, dados e tecnologia.
+Atualmente, direciono meus estudos e projetos para:
 
-⸻
+* ⚙️ Automação: desenvolvimento de scripts e otimização de processos operacionais.
+* 🐍 Python: processamento de dados, lógica de programação e construção de soluções.
+* 🗄️ Banco de dados: consultas SQL, extração e organização de informações.
+* 🤖 Inteligência artificial: integração de modelos de IA em ferramentas e fluxos de trabalho.
+* 🌐 Desenvolvimento web: construção de aplicações e APIs.
+* 🔐 Cibersegurança: aprofundamento em segurança da informação e infraestrutura.
+
+Acredito que tecnologia vai além de escrever código: o objetivo é construir soluções úteis, reduzir trabalho manual e gerar resultados mensuráveis.
 
 🚀 Tech Stack
 
@@ -34,99 +43,54 @@ Gosto de entender problemas reais, identificar gargalos e transformar processos 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-⚙️ Backend & APIs
+⚙️ Backend & Desenvolvimento Web
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
 </p>
 
-📊 Dados & Analytics
+📊 Dados & Banco de Dados
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-🤖 Inteligência Artificial
+🤖 Automação & Inteligência Artificial
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/AI%20Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Integração de IA" />
+  <img src="https://img.shields.io/badge/Process_Automation-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automação de processos" />
+  <img src="https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge" alt="Modelos de linguagem" />
 </p>
 
-🔁 Automação
+🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-</p>
-
-🔐 Cibersegurança
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-</p>
-
-☁️ Infraestrutura & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-⸻
+🧪 No que estou trabalhando
 
-🔥 No que estou trabalhando
+* Automação de processos: redução de tarefas repetitivas e melhoria de fluxos operacionais.
+* Inteligência de dados: extração, tratamento, cruzamento e análise de informações para apoiar decisões.
+* Aplicações web: desenvolvimento de interfaces, APIs e integração entre sistemas.
+* IA aplicada: exploração de formas de utilizar modelos de linguagem para ampliar a produtividade.
+* Cibersegurança: evolução contínua dos conhecimentos em segurança e tecnologia.
 
-⚙️ Automação
-
-Scripts, integrações e ferramentas para reduzir tarefas repetitivas.
-
-📊 Dados
-
-Consultas SQL, tratamento de dados e análises para apoiar decisões.
-
-🌐 Desenvolvimento
-
-APIs e aplicações utilizando tecnologias modernas de backend.
-
-🔐 Cibersegurança
-
-Estudos, laboratórios e exploração de redes e sistemas.
-
-🤖 IA + Automação
-
-Aplicações práticas de IA na programação e produtividade.
-
-⸻
-
-📊 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=caioroodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" />
@@ -135,24 +99,22 @@ Aplicações práticas de IA na programação e produtividade.
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioroodrigues&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=caioroodrigues&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=caioroodrigues&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </p>
 
-⸻
-
-💭 Como eu penso
+💡 Minha filosofia
 
 while True:
-    problem = find_problem()
-    solution = build(problem)
+    problem = identify_problem()
+    solution = build_solution(problem)
     automate(solution)
     learn()
     improve()
 <p align="center">
-  <strong>⚡ Build. Automate. Learn. Repeat.</strong>
+  <strong>Build. Automate. Learn. Repeat.</strong>
 </p>
 <p align="center">
-  <a href="https://github.com/caioroodrigues">
-    <img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus repositórios" />
+  <a href="https://github.com/caioroodrigues?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus projetos" />
   </a>
 </p>
