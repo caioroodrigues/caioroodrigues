@@ -1,4 +1,2 @@
-Logotipos: Simple Icons versões 16.24.1 e 11.15.0 (para marcas ausentes na versão atual).
-https://github.com/simple-icons/simple-icons
-Os logotipos são marcas de seus respectivos titulares.
-Banner e composição dos tiles criados para este README.
+Logotipos: Simple Icons 16.24.1 e 11.15.0 — https://github.com/simple-icons/simple-icons
+Marcas pertencem a seus respectivos titulares. Símbolos genéricos desenhados para este projeto. Banner original gerado por IA, inspirado na pose das mãos da Criação de Adão, com temática tecnológica e sem texto.
