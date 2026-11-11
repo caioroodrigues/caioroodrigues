@@ -1,17 +1,4 @@
 # 👨‍💻 Caio Rodrigues
-
-<p align="center">
-  <img width="100%" src="./assets/banner.png" alt="Conexão entre o humano e a tecnologia" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/caio-rodrigues45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tglcaiohenrique@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/caioroodrigues"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Automa%C3%A7%C3%A3o+de+Processos;Desenvolvimento+de+Solu%C3%A7%C3%B5es+com+Python;Dados%2C+SQL+e+Business+Intelligence;Integra%C3%A7%C3%A3o+de+IA+em+fluxos+de+trabalho" alt="Animação de apresentação" />
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mim
